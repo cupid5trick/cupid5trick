@@ -9,7 +9,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#65](https://github.com/cupid5trick/TrackDrop/pull/65) in [cupid5trick/TrackDrop](https://github.com/cupid5trick/TrackDrop)
+1. 🗣 Commented on [#27](https://github.com/h2non/jsonpath-ng/issues/27#issuecomment-1878332655) in [h2non/jsonpath-ng](https://github.com/h2non/jsonpath-ng)
 2. 💪 Opened PR [#65](https://github.com/cupid5trick/TrackDrop/pull/65) in [cupid5trick/TrackDrop](https://github.com/cupid5trick/TrackDrop)
 3. 🗣 Commented on [#131](https://github.com/APLA-Toolbox/PythonPDDL/issues/131#issuecomment-1842782562) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
 4. 🗣 Commented on [#36](https://github.com/cupid5trick/cupid5trick/issues/36#issuecomment-1829219514) in [cupid5trick/cupid5trick](https://github.com/cupid5trick/cupid5trick)
