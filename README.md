@@ -17,11 +17,13 @@
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.4%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-306%20hrs%2046%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 640.5 kB Used in GitHub's Storage 
+> 📦 640.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -29,6 +31,32 @@
  > 
 > 🔑 13 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 11/04/2024 16:19:03 UTC
+```text
+🌞 Morning                468 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+🌆 Daytime                1147 commits        ███████░░░░░░░░░░░░░░░░░░   28.87 % 
+🌃 Evening                1893 commits        ████████████░░░░░░░░░░░░░   47.65 % 
+🌙 Night                  465 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Go                       4 hrs 42 mins       ███████████████████████░░   92.69 % 
+JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+
+🐱‍💻 Projects: 
+miyoushe_wiki            5 hrs 5 mins        █████████████████████████   99.94 % 
+algo-training            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+```
+
+
+ Last Updated on 12/04/2024 16:20:07 UTC
 <!--END_SECTION:waka-->
