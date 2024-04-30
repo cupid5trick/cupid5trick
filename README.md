@@ -19,13 +19,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-326%20hrs%2016%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 643.5 kB Used in GitHub's Storage 
- > 
-> 🏆 856 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -36,10 +34,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                439 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-🌆 Daytime                1115 commits        ███████░░░░░░░░░░░░░░░░░░   28.54 % 
-🌃 Evening                1901 commits        ████████████░░░░░░░░░░░░░   48.66 % 
-🌙 Night                  452 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+🌞 Morning                471 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+🌆 Daytime                1158 commits        ███████░░░░░░░░░░░░░░░░░░   28.52 % 
+🌃 Evening                1944 commits        ████████████░░░░░░░░░░░░░   47.87 % 
+🌙 Night                  488 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
 ```
 
 
@@ -56,5 +54,5 @@ miyoushe_wiki            5 mins              ███████████�
 ```
 
 
- Last Updated on 29/04/2024 16:20:55 UTC
+ Last Updated on 30/04/2024 16:22:06 UTC
 <!--END_SECTION:waka-->
