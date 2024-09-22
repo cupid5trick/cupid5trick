@@ -17,27 +17,27 @@
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.6%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-338%20hrs%2035%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 700.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,043 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 13 Public Repositories 
+> 📜 14 Public Repositories 
  > 
 > 🔑 17 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                665 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-🌆 Daytime                1660 commits        ███████░░░░░░░░░░░░░░░░░░   27.28 % 
-🌃 Evening                2910 commits        ████████████░░░░░░░░░░░░░   47.83 % 
-🌙 Night                  849 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+🌞 Morning                743 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+🌆 Daytime                1767 commits        ███████░░░░░░░░░░░░░░░░░░   27.12 % 
+🌃 Evening                3046 commits        ████████████░░░░░░░░░░░░░   46.75 % 
+🌙 Night                  959 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
 ```
 
 
@@ -47,14 +47,12 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    7 mins              ███████████████████░░░░░░   75.27 % 
-Bash                     2 mins              ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-MIT6.5840                9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 20/09/2024 16:28:38 UTC
+ Last Updated on 22/09/2024 16:25:37 UTC
 <!--END_SECTION:waka-->
