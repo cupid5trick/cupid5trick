@@ -9,8 +9,8 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/cupid5trick/cupid5trick/issues/1#issuecomment-1961666240) in [cupid5trick/cupid5trick](https://github.com/cupid5trick/cupid5trick)
-2. 🔒 Closed issue [#1](https://github.com/cupid5trick/cupid5trick/issues/1) in [cupid5trick/cupid5trick](https://github.com/cupid5trick/cupid5trick)
+1. 🚀 Published release [v0.1.1](https://github.com/cupid5trick/cupid5trick-docs/releases/tag/v0.1.1) in [cupid5trick/cupid5trick-docs](https://github.com/cupid5trick/cupid5trick-docs)
+2. 🚀 Published release [v0.1.0](https://github.com/cupid5trick/cupid5trick-docs/releases/tag/v0.1.0) in [cupid5trick/cupid5trick-docs](https://github.com/cupid5trick/cupid5trick-docs)
 3. 🗣 Commented on [#1](https://github.com/cupid5trick/cupid5trick/issues/1#issuecomment-1949913602) in [cupid5trick/cupid5trick](https://github.com/cupid5trick/cupid5trick)
 4. ❗ Opened issue [#1](https://github.com/cupid5trick/cupid5trick/issues/1) in [cupid5trick/cupid5trick](https://github.com/cupid5trick/cupid5trick)
 5. 🗣 Commented on [#27](https://github.com/h2non/jsonpath-ng/issues/27#issuecomment-1878332655) in [h2non/jsonpath-ng](https://github.com/h2non/jsonpath-ng)
